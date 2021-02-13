@@ -1,2 +1,2 @@
 # albert-picbed
->Github 图床
+>Github 图床仓库
