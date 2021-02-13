@@ -1,2 +1,2 @@
 # albert-picbed
-Pic Bed
+>Github 图床
